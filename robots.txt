@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Sitemap: https://pitung-ru.pages.dev/satu.xml
+Sitemap: https://pitung-ru.pages.dev/dua.xml
+Sitemap: https://pitung-ru.pages.dev/tiga.xml
+Sitemap: https://pitung-ru.pages.dev/empat.xml
+Sitemap: https://pitung-ru.pages.dev/lima.xml
+Sitemap: https://pitung-ru.pages.dev/enam.xml
+Sitemap: https://pitung-ru.pages.dev/tujuh.xml
+Sitemap: https://pitung-ru.pages.dev/delapan.xml
+Sitemap: https://pitung-ru.pages.dev/sembilan.xml
+Sitemap: https://pitung-ru.pages.dev/sepuluh.xml
+Sitemap: https://pitung-ru.pages.dev/sebelas.xml
+Sitemap: https://pitung-ru.pages.dev/duabelas.xml
+Sitemap: https://pitung-ru.pages.dev/tigabelas.xml
+Sitemap: https://pitung-ru.pages.dev/empatbelas.xml
+Sitemap: https://pitung-ru.pages.dev/limabelas.xml
+
